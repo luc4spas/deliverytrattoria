@@ -1,0 +1,1 @@
+UPDATE public.categories SET kind = 'pizza' WHERE id = '8b5fdae8-7f57-48c4-b1a2-820daff0e562';
